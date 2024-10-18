@@ -1,4 +1,3 @@
-[![image](https://github.com/user-attachments/assets/797d3eff-4e24-4e32-b3a9-94ba084e2230)](https://media.licdn.com/dms/image/v2/C4E03AQHTzT5GS_xhmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1662004705994?e=1734566400&v=beta&t=jJ0MEIjPKFQvS_q0cIoKFBnJenvDJvNArTIVSA0A0qU)
 <h1> Hi! I'm Mohammed Qahtani <br/><a 
 
 <h2> </h2>
