@@ -1,86 +1,36 @@
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+[![image](https://github.com/user-attachments/assets/797d3eff-4e24-4e32-b3a9-94ba084e2230)](https://media.licdn.com/dms/image/v2/C4E03AQHTzT5GS_xhmw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1662004705994?e=1734566400&v=beta&t=jJ0MEIjPKFQvS_q0cIoKFBnJenvDJvNArTIVSA0A0qU)
+<h1> Hi! I'm Mohammed Qahtani <br/><a 
 
-        <!--==================== UNICONS ====================-->
-        
-        
-        <!--==================== SWIPER CSS ====================-->
-        <link rel="stylesheet" href="">
-        
-        <!--==================== CSS ====================-->
-        <link rel="stylesheet" href="">
+<h2> </h2>
+I'm a sophomore materials engineering student passionate about interdisciplinary problem-solving. With experience in data analysis and lab work, I'm interested in connecting engineering with project management. I'm always open to new experiences and learning opportunities.
 
-        <title>Responsive Portfolio Website</title>
-    </head>
-    <body>
-        <!--==================== HEADER ====================-->
-        <header class="header" id="header">
-            
-        </header>
 
-        <!--==================== MAIN ====================-->
-        <main class="main">
-            <!--==================== HOME ====================-->
-            <section class="home section" id="home">
-                
-            </section>
+<h2> Experiences:</h2>
 
-            <!--==================== ABOUT ====================-->
-            <section class="about section" id="about">
-                
-            </section>
+- <b> The University of Illinois Urbana Champaign - Materials Advantage </b>
 
-            <!--==================== SKILLS ====================-->
-            <section class="skills section" id="skills">
+    - Regularly attended meetings and seminars designed to foster knowledge expansion and skills enhancement in the field of materials science and engineering.
+    - Worked under the guidance of a senior club mentor to gain insights into advanced materials concepts, industry best practices, and career development strategies.
+  
+- <b> King Abdulaziz University - Student Researcher </b>
 
-            </section>
+    - Spearheaded Short-Term Load Forecasting (STLF) research under the guidance of Prof. Bassam Zafar, focusing on predicting electrical load patterns for residential settings.
+    - Utilized Weka, a prominent data mining software, to accurately forecast the electrical load of a house multiple hours in advance, enhancing the prediction's reliability and utility.
+    - Conducted a comprehensive comparison of various forecasting algorithms, including Linear Regression, Gaussian Processes, Sequential Minimal Optimization Regression (SMOreg), and Multilayer Perceptrons. This analysis aimed to identify the most effective method for time-series forecasting in the context of STLF
+    - Culminated the research experience by presenting a detailed poster on the findings at the National Science and Engineering Fair in Saudi Arabia
+ 
+- <b> Columbia University (Materials Science and Nanotechnology) - Summer Student </b>
 
-            <!--==================== QUALIFICATION ====================-->
-            <section class="qualification section">
+    - Gained comprehensive knowledge in the field of materials science technology and engineering
+    - Actively participated in daily seminars with experts from academic, industrial, and national laboratories, enhancing understanding of real-world applications.
+    - Demonstrated proficiency in software like ChemDraw, mastering its use in drawing molecules, crystalline structures, and interpreting H-NMR spectra.
 
-            </section>
+<h2>  Awards and Honors:</h2>
 
-            <!--==================== SERVICES ====================-->
-            <section class="services section" id="services">
-                
-            </section>
+<h2> 🤳 Connect with me:</h2>
 
-            <!--==================== PORTFOLIO ====================-->
-            <section class="portfolio section" id="portfolio">
-                
-            </section>
 
-            <!--==================== PROJECT IN MIND ====================-->
-            <section class="project section">
 
-            </section>
 
-            <!--==================== TESTIMONIAL ====================-->
-            <section class="testimonial section">
-                
-            </section>
 
-            <!--==================== CONTACT ME ====================-->
-            <section class="contact section" id="contact">
-
-            </section>
-        </main>
-
-        <!--==================== FOOTER ====================-->
-        <footer class="footer">
-         
-        </footer>
-        
-        <!--==================== SCROLL TOP ====================-->
-        
-
-        <!--==================== SWIPER JS ====================-->
-        <script src=""></script>
-
-        <!--==================== MAIN JS ====================-->
-        <script src=""></script>
-    </body>
-</html>
+[linkedin]: https://www.linkedin.com/in/moqahtani/
