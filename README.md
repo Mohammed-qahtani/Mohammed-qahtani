@@ -26,10 +26,11 @@ I'm a sophomore materials engineering student passionate about interdisciplinary
 
 <h2>  Awards and Honors:</h2>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Contact Information:</h2>
 
 
 
+[<img align="left" alt="MQ-567456228 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[linkedin]: https://www.linkedin.com/in/moqahtani/
+[linkedin]: https://www.linkedin.com/in/moqahtani
+moqahtani04@gmail.com
