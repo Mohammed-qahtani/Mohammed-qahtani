@@ -19,7 +19,7 @@ I'm a sophomore materials engineering student passionate about interdisciplinary
     - Utilized Weka, a prominent data mining software, to accurately forecast the electrical load of a house multiple hours in advance, enhancing the prediction's reliability and utility.
     - Conducted a comprehensive comparison of various forecasting algorithms, including Linear Regression, Gaussian Processes, Sequential Minimal Optimization Regression (SMOreg), and Multilayer Perceptrons. This analysis aimed to identify the most effective method for time-series forecasting in the context of STLF
     - Culminated the research experience by presenting a detailed poster on the findings at the National Science and Engineering Fair in Saudi Arabia
-    - https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM261_Research.pdf
+    - [Research Paper Link]([url](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM261_Research.pdf))
 
  
   - <b> Columbia University (Materials Science and Nanotechnology) - Summer Student </b>
@@ -34,7 +34,7 @@ I'm a sophomore materials engineering student passionate about interdisciplinary
 
     - Received two special awards from Riyadh Valley Co. and The National Cybersecurity Authority
     - One of 152 finalists out of 103,000 initial participants
-    - Link Poster
+    - [Poster Link (BADM261_Poster.pdf)]
  
 -  <b> Recipient – KAUST Gifted Student Program (KGSP) Scholarship</b>
 
