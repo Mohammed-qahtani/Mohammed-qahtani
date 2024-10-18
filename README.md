@@ -3,7 +3,8 @@
 <h2> </h2>
 I'm a sophomore materials engineering student passionate about interdisciplinary problem-solving. With experience in data analysis and lab work, I'm interested in connecting engineering with project management. I'm always open to new experiences and learning opportunities.
 
-
+<h2> Blog:</h2>
+ 
 <h2> Experiences:</h2>
 
 - <b> The University of Illinois Urbana Champaign - Materials Advantage </b>
@@ -18,13 +19,27 @@ I'm a sophomore materials engineering student passionate about interdisciplinary
     - Conducted a comprehensive comparison of various forecasting algorithms, including Linear Regression, Gaussian Processes, Sequential Minimal Optimization Regression (SMOreg), and Multilayer Perceptrons. This analysis aimed to identify the most effective method for time-series forecasting in the context of STLF
     - Culminated the research experience by presenting a detailed poster on the findings at the National Science and Engineering Fair in Saudi Arabia
  
-- <b> Columbia University (Materials Science and Nanotechnology) - Summer Student </b>
 
     - Gained comprehensive knowledge in the field of materials science technology and engineering
     - Actively participated in daily seminars with experts from academic, industrial, and national laboratories, enhancing understanding of real-world applications.
     - Demonstrated proficiency in software like ChemDraw, mastering its use in drawing molecules, crystalline structures, and interpreting H-NMR spectra.
 
 <h2>  Awards and Honors:</h2>
+
+-  <b> Finalist – National Olympiad for Science and Creativity </b>
+
+    - Received two special awards from Riyadh Valley Co. and The National Cybersecurity Authority
+    - One of 152 finalists out of 103,000 initial participants
+    - Link Poster
+ 
+-  <b> Recipient – KAUST Gifted Student Program (KGSP) Scholarship</b>
+
+    - KGSP is a prestigious scholarship awarded by the King Abdullah University of Science & Technology (KAUST) for students pursuing STEM in US universities
+ 
+<h2>  Skills:</h2>
+
+- <b> Computer:</b> Python, Kotlin, Microsoft Excel, ChemDraw
+- <b> Language:</b> Fluent in Arabic and English
 
 <h2> Contact Information:</h2>
 
