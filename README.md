@@ -14,15 +14,16 @@ I'm a sophomore materials engineering student passionate about interdisciplinary
 
   
 - <b> King Abdulaziz University - Student Researcher </b>
-
+   
+    - ([Research Paper Link](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM261_Research.pdf))
     - Spearheaded Short-Term Load Forecasting (STLF) research under the guidance of Prof. Bassam Zafar, focusing on predicting electrical load patterns for residential settings.
     - Utilized Weka, a prominent data mining software, to accurately forecast the electrical load of a house multiple hours in advance, enhancing the prediction's reliability and utility.
     - Conducted a comprehensive comparison of various forecasting algorithms, including Linear Regression, Gaussian Processes, Sequential Minimal Optimization Regression (SMOreg), and Multilayer Perceptrons. This analysis aimed to identify the most effective method for time-series forecasting in the context of STLF
     - Culminated the research experience by presenting a detailed poster on the findings at the National Science and Engineering Fair in Saudi Arabia
-    - [Research Paper Link]([url](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM261_Research.pdf))
+
 
  
-  - <b> Columbia University (Materials Science and Nanotechnology) - Summer Student </b>
+ - <b> Columbia University (Materials Science and Nanotechnology) - Summer Student </b>
 
     - Gained comprehensive knowledge in the field of materials science technology and engineering
     - Actively participated in daily seminars with experts from academic, industrial, and national laboratories, enhancing understanding of real-world applications.
@@ -32,9 +33,9 @@ I'm a sophomore materials engineering student passionate about interdisciplinary
 
 -  <b> Finalist – National Olympiad for Science and Creativity </b>
 
+    - ([Poster Link](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM261_Poster.pdf))
     - Received two special awards from Riyadh Valley Co. and The National Cybersecurity Authority
     - One of 152 finalists out of 103,000 initial participants
-    - [Poster Link (BADM261_Poster.pdf)]
  
 -  <b> Recipient – KAUST Gifted Student Program (KGSP) Scholarship</b>
 
