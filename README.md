@@ -1,7 +1,12 @@
 <h1> Hi! I'm Mohammed Qahtani <br/><a 
 
 <h2> </h2>
-I'm a sophomore materials engineering student passionate about interdisciplinary problem-solving. With experience in data analysis and lab work, I'm interested in connecting engineering with project management. I'm always open to new experiences and learning opportunities.
+
+I'm a sophomore materials science and engineering student passionate about interdisciplinary problem-solving. With experiences in data analysis and lab work, I'm interested in connecting the computational side of my skillset with materials engineering. More broadly, I am drawn to projects that bridge engineering and project management. Outside of academics, I enjoy playing volleyball, soccer, and reading.
+I'm always open to new experiences and learning opportunities!
+
+
+
 
 <h2> Blog:</h2>
  
