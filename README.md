@@ -13,7 +13,7 @@ I'm always open to new experiences and learning opportunities!
 - ([Bridging Disciplines: How AI and NLP are Transforming Materials Science and Beyond
 ](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM%20261%20-%20Mohammed%20Qahtani_BlogPost1.pdf))
 
-- ([The Data-Driven Revolution in Materials Engineering: Why Computational Skills Matter More Than Ever]([https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM%20261%20-%20Mohammed%20Qahtani_BlogPost1.pdf](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM%20261%20-%20Mohammed%20Qahtani_BlogPost2.pdf)))
+- ([The Data-Driven Revolution in Materials Engineering: Why Computational Skills Matter More Than Ever](https://github.com/Mohammed-qahtani/Mohammed-qahtani/blob/main/BADM%20261%20-%20Mohammed%20Qahtani_BlogPost2.pdf))
  
 <h2> Experiences:</h2>
 
